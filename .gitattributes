@@ -1,0 +1,11 @@
+*.dll binary
+*.gz binary
+*.dat binary
+*.blat binary
+*.wasm binary
+*.ico binary
+*.eot binary
+*.otf binary
+*.ttf binary
+*.woff binary
+
